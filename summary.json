@@ -1,0 +1,52 @@
+[
+    {
+        "Roll_No": "101",
+        "Name": "Sara",
+        "Average": 85.25
+    },
+    {
+        "Roll_No": "102",
+        "Name": "Joshua",
+        "Average": 91.75
+    },
+    {
+        "Roll_No": "103",
+        "Name": "Rachel",
+        "Average": 80.5
+    },
+    {
+        "Roll_No": "104",
+        "Name": "Sini",
+        "Average": 89.75
+    },
+    {
+        "Roll_No": "105",
+        "Name": "Rose",
+        "Average": 74.25
+    },
+    {
+        "Roll_No": "106",
+        "Name": "Abel",
+        "Average": 95.25
+    },
+    {
+        "Roll_No": "107",
+        "Name": "Joyal",
+        "Average": 80.5
+    },
+    {
+        "Roll_No": "108",
+        "Name": "Elsa",
+        "Average": 88.5
+    },
+    {
+        "Roll_No": "109",
+        "Name": "Ann",
+        "Average": 77.25
+    },
+    {
+        "Roll_No": "110",
+        "Name": "Leya",
+        "Average": 92.75
+    }
+]
